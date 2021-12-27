@@ -10,7 +10,7 @@ consumer_secret = CONFIGS["AUTH"]["consumer_secret"]
 
 
 def authenticate():
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret, "oob")
     try:
         url = auth.get_authorization_url()
         print("auth url: ", url)
