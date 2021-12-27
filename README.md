@@ -27,12 +27,13 @@ consumer_secret=<a_consumer_secret>
 
 To run the application execute `make run`, this command will ask you for a `verifier` `PIN`. To get this `PIN`
 
-1- Open on your browser the `auth url`.
-2- Click on `Authorize App`
+1 - Open on your browser the `auth url`.
+
+2 - Click on `Authorize App`
 
 <img width="704" alt="Screenshot 2021-12-27 at 14 23 52" src="https://user-images.githubusercontent.com/5704817/147476015-91eaa0ea-0a99-4534-97ac-b5c979ccbb58.png">
 
-3- then copy and paste the pin on your terminal.
+3 - then copy and paste the pin on your terminal.
 
  <img width="717" alt="Screenshot 2021-12-27 at 14 24 03" src="https://user-images.githubusercontent.com/5704817/147476045-46a358c9-4db5-4dac-886e-c18968e5c25b.png">
 
