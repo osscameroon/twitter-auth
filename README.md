@@ -47,3 +47,5 @@ Verifier:3553107
 api_key: <USER_API_KEY>
 api_secret: <USER_API_SECRET>
 ```
+
+**Note: please make sure the OAuth 1.0a is turned on for your application**
